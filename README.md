@@ -1,3 +1,3 @@
 # StatLibrary
 
-Simple statistical library
+### Simple statistical library containing basic statistical functions 

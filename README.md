@@ -1,1 +1,3 @@
 # StatLibrary
+
+Simple statistical library
